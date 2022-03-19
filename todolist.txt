@@ -1,0 +1,10 @@
+1. Get address of company
+2. Get company's logo
+3. Get Dom's years of experience
+4. Ask for slogan
+5. Check if he likes the theme color (black)
+6. Get approximated price on the services
+7. Ask for description of service
+8. Check if Dom likes having team member pic on 
+9. Ask for business hour
+10. Ask for social media link
